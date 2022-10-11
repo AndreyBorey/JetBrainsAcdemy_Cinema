@@ -1,0 +1,33 @@
+Enter the number of rows:
+> 9
+Enter the number of seats in each row:
+> 9
+1. Show the seats
+2. Buy a ticket
+3. Statistics
+0. Exit
+> 2
+Enter a row number:
+> 1
+Enter a seat number in that row:
+> 1
+Ticket price: $10
+1. Show the seats
+2. Buy a ticket
+3. Statistics
+0. Exit
+> 2
+Enter a row number:
+> 1
+Enter a seat number in that row:
+> 1
+That ticket has already been purchased!
+Enter a row number:
+> 9
+Enter a seat number in that row:
+> 5
+Ticket price: $10
+1. Show the seats
+2. Buy a ticket
+3. Statistics
+0. Exit
